@@ -151,7 +151,6 @@ export default function AuthForm({ mode }: AuthFormProps) {
               </span>
             </div>
           </div>
-
           <div className="w-full justify-center items-center flex">
             <Button
               variant="outline"
