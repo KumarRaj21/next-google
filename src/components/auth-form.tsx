@@ -147,7 +147,7 @@ export default function AuthForm({ mode }: AuthFormProps) {
             </div>
             <div className="relative flex justify-center text-sm">
               <span className="px-2 bg-white/80 text-gray-500">
-                Or continue with
+                Or continue with 
               </span>
             </div>
           </div>
